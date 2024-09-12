@@ -7,8 +7,8 @@ Due to the class imbalance (most units pass while only a small number fail), I i
 
 ## Project Structure
 
-### Data Preprocessing**
+##### Data Preprocessing
 ##### Handling Missing Values
 ##### Feature Selection
 ##### Target Encoding: The target variable (`Pass/Fail`) is encoded as `"PASS"` for pass and `"FAIL"` for fail, which makes the classification task more interpretable.
-### Model Training and Evaluation
+##### Model Training and Evaluation
